@@ -33,7 +33,7 @@
 	},
 	"devDependencies": {
 		"@dojo/cli": "~7.0.0",
-		"@dojo/cli-build-app": "file:../cli-build-app/dist/release/dojo-cli-build-app-7.0.1-pre.tgz",
+		"@dojo/cli-build-app": "file:cli-build-app.tgz",
 		"@dojo/cli-test-intern": "~7.0.0",
 		"@types/node": "~9.6.5",
 		"typescript": "~3.4.5"
